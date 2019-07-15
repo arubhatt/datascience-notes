@@ -3,7 +3,7 @@ Miscellaneous notes from the last few courses of my datascience journey through 
 
 These were notes taken from within the [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python. track.
 
-# List of Notes covered:
+# List of Notes Covered
 
 1. Bokeh Plotting - using bokeh for interactive plots.
 2. Conda essentials - maintaining your conda environment - using venv.
